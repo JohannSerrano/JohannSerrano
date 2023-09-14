@@ -1,4 +1,13 @@
-### Hi there 👋
+# _Hola, Soy Johan, Tengo 18 años y esta es mi presentacion_
+# ![Alt](https://user-images.githubusercontent.com/144852531/267829886-08133379-b777-42c1-b3db-30eed17cb592.png)
+# me gusta ver series o peliculas 🎬
+# mi comida favorita es la pizza 🍕
+# me gusta mucho la musica de rock 🎧
+# 💻 Lenguajes de Programacion:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
+
 
 <!--
 **JohannSerrano/JohannSerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
