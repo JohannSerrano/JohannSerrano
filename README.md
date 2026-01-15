@@ -1,4 +1,4 @@
-# _Hola, Soy Johan, Tengo 19 años y esta es mi presentacion_
+# _Hola, Soy Johan
 # ![Alt](https://user-images.githubusercontent.com/144852531/267829886-08133379-b777-42c1-b3db-30eed17cb592.png)
 # me gusta ver series o peliculas 🎬
 # mi comida favorita es la pizza 🍕
