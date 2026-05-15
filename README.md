@@ -115,7 +115,7 @@ Sistema web para la gestión de servicios, clientes, trabajadores y agendamiento
     <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/Johan Alexander Serrano Toro">
+  <a href="https://www.linkedin.com/in/johan-alexander-serrano-toro-42b0943a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
